@@ -1,0 +1,1 @@
+# Git ConfiaCred - Site Principal
